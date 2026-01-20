@@ -1,0 +1,2 @@
+date,value,z_score,is_anomaly,anomaly_type,deviation_pct
+2025-07-01,616868,7.578700991807611,True,High,964.45

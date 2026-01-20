@@ -1,0 +1,5 @@
+category,priority,title,description,potential_impact
+Operations,High,Improve Weekend Operations,Weekend enrollments are only 64% of weekday levels. Consider extended hours or awareness campaigns.,Increase weekly enrollments by 10-15%
+Planning,Medium,Implement Demand Smoothing,High daily variation (CV=127%) indicates unpredictable demand. Consider appointment systems.,Reduce wait times and improve resource utilization
+Technology,High,Deploy Predictive Demand System,Use ML forecasting to predict daily demand and optimize staffing.,Reduce wait times by 20-30%
+Monitoring,Low,Implement Real-Time Dashboard,Deploy interactive dashboard for monitoring KPIs across all centers.,Faster response to operational issues

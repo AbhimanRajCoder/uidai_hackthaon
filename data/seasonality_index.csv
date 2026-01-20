@@ -1,0 +1,10 @@
+month,month_name,total,seasonality_index,recommendation
+3,Mar,16582,2.8,Reduce Staff
+4,Apr,257438,43.46,Reduce Staff
+5,May,183616,31.0,Reduce Staff
+6,Jun,215734,36.42,Reduce Staff
+7,Jul,616868,104.13,Normal
+9,Sep,1475824,249.13,Add Staff
+10,Oct,779570,131.6,Add Staff
+11,Nov,1052536,177.67,Add Staff
+12,Dec,733414,123.8,Add Staff
